@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2019-10-12 11:48:23 -0400
-categories: jekyll update
+title:  "How to Approach Fixing Your Stand-up"
+date:   12-10-19 
+categories: standup stand-up boring meetings agile rituals
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
