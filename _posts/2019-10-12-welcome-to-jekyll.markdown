@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Approach Fixing Your Stand-up"
-date:   12-10-19 
+date:   08-10-2019
 categories: standup stand-up boring meetings agile rituals
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
