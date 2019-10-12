@@ -2,24 +2,23 @@
 layout: post
 title:  "How to Approach Fixing Your Stand-up"
 date:   08-10-2019
-categories: standup stand-up boring meetings agile rituals
+categories: standup stand-up boring meetings agile rituals techlead
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+As an lead of a team, ever since your organization got the 'Agile' kick, you've had to attend/faciltiate stand-ups that no one likes. 
 
-Jekyll also offers powerful support for code snippets:
+If this is you, here are some other symptons you may experience:
+- Painfully long 20-60 min meetings
+- Standups involving 20+ people
+- Rarely is a team member blocked or they're always blocked
+- You often hear 'I\'m still working on this and going to continue working on this' (sometimes for weeks)
+- Rarely are smaller breakout sessions taking place after standup
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+### What should a standup feel like?
+The stand-ups should feel valuable to you at least 2/3 of the time. They won't always be for you, but if they're not mostly for you then maybe you shouldn't be there. In order to paint a better picture, stop by [Jason Yip's](http://jchyip.blogspot.com/) post on  [What might "good" look like? (for stand-ups)](https://martinfowler.com/articles/itsNotJustStandingUp.html#WhatMightx201cgoodx201dLookLike "Darn TWers for the win"). 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+> A good standup is like good coffee, once you develop a taste for well-run stand-ups, it's hard to go back. - Me
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### How to Fix Them
+To Be Continued
+
